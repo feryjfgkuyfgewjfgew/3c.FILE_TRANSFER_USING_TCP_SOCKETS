@@ -1,3 +1,6 @@
+## name:naresh.r
+## roll:212223240104
+
 # 3c.CREATION FOR FILE TRANSFER USING TCP SOCKETS
 ## AIM
 To write a python program for creating File Transfer using TCP Sockets Links
@@ -63,13 +66,6 @@ Terminal:
 
 ![Screenshot 2024-04-17 111317](https://github.com/ThakshaRishi/3c.FILE_TRANSFER_USING_TCP_SOCKETS/assets/144870423/0954a764-269f-4e23-bcc2-19e4929959a5)
 
-Original File:
-
-![Screenshot 2024-04-17 111552](https://github.com/ThakshaRishi/3c.FILE_TRANSFER_USING_TCP_SOCKETS/assets/144870423/a68389ea-4329-4948-a23c-32a5eae0714d)
-
-Received File:
-
-![Screenshot 2024-04-17 111527](https://github.com/ThakshaRishi/3c.FILE_TRANSFER_USING_TCP_SOCKETS/assets/144870423/0b08bfaa-718d-48d4-815a-148bd8132845)
 
 ## RESULT
 Thus, the python program for creating File Transfer using TCP Sockets Links was 
