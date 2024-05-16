@@ -1,7 +1,8 @@
-## name:naresh.r
-## roll:212223240104
+
 
 # 3c.CREATION FOR FILE TRANSFER USING TCP SOCKETS
+## NAME : NARESH
+## ROLL NO:212223240104
 ## AIM
 To write a python program for creating File Transfer using TCP Sockets Links
 ## ALGORITHM:
@@ -62,9 +63,8 @@ while True:
  conn.close()
 ```
 ## OUTPUT
-Terminal:
+![image](https://github.com/feryjfgkuyfgewjfgew/3c.FILE_TRANSFER_USING_TCP_SOCKETS/assets/150319377/0560dab9-b511-47bb-9e81-acdf14fc5c4b)
 
-![Screenshot 2024-04-17 111317](https://github.com/ThakshaRishi/3c.FILE_TRANSFER_USING_TCP_SOCKETS/assets/144870423/0954a764-269f-4e23-bcc2-19e4929959a5)
 
 
 ## RESULT
