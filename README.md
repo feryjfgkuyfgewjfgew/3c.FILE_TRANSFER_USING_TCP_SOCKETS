@@ -63,7 +63,11 @@ while True:
  conn.close()
 ```
 ## OUTPUT
-![image](https://github.com/feryjfgkuyfgewjfgew/3c.FILE_TRANSFER_USING_TCP_SOCKETS/assets/150319377/0560dab9-b511-47bb-9e81-acdf14fc5c4b)
+## CLINT
+![Screenshot 2024-05-17 190712](https://github.com/feryjfgkuyfgewjfgew/3c.FILE_TRANSFER_USING_TCP_SOCKETS/assets/150319377/9b986c61-c097-44bc-9cb7-3951bfac21fb)
+
+## SERVER
+![Screenshot 2024-05-17 190726](https://github.com/feryjfgkuyfgewjfgew/3c.FILE_TRANSFER_USING_TCP_SOCKETS/assets/150319377/d995064c-581b-44e5-9eb0-4a226fc2eb86)
 
 
 
